@@ -1,5 +1,10 @@
 Feeding-Induced Olfactory Cortex Suppression Reduces Satiation (Lo et al., 2025, Neuron)
-This is the repository for the analysis performed on electrophysiological data, figure 4N-T.
+This is the repository for the analysis performed on electrophysiological data, figure 4N-T and 6SA-C.
+
+There is just one main and linear code file, KelschLab_Binge.m. 
+Download the full package, open KelschLab_Binge.m, and the progression is straightforward and explained inside.
+It reproduces all of the figures and statistical tests.
+
 
 
 
